@@ -1,0 +1,51 @@
+body {
+  width: 1200px;
+  background-image: url("wool-white2.jpg");
+  background-blend-mode: multiply;
+}
+* {
+  text-align: center;
+  color: rgb(26, 26, 26);
+}
+.aboutThisPage {
+  margin: 4% 10%;
+  background-image: url("cottonblue.png");
+  background-blend-mode: multiply;
+  border: 1px solid #cadbe9;
+  border-radius: 50px;
+}
+.aboutThisPage p {
+  text-align: left;
+  display: inline-block;
+}
+.howToUse {
+  margin: 4% 10%;
+  background-image: url("cottonblue.png");
+  background-blend-mode: multiply;
+  border: 1px solid #cadbe9;
+  border-radius: 50px;
+}
+.howToUse p {
+  text-align: left;
+  display: inline-block;
+}
+.forMedical {
+  margin: 4% 10%;
+  background-image: url("cottonblue.png");
+  background-blend-mode: multiply;
+  border: 1px solid #cadbe9;
+  border-radius: 50px;
+}
+.mainpage {
+  display: inline-block;
+  margin: 2% auto;
+  background-image: url("cottonwhite.png");
+  background-blend-mode: multiply;
+  border: 1px solid white;
+  border-radius: 50px;
+  padding: 20px;
+  text-decoration: none;
+}
+.mainpage:hover {
+  opacity: 0.8;
+}
